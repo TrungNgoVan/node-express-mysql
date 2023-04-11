@@ -21,8 +21,8 @@ coverage
 node_modules
 
 # Environment variables
-.env
-.env.*
+# .env
+# .env.*
 
 # Production build directory
 build
